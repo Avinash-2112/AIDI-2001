@@ -43,7 +43,7 @@ safetensors==0.3.2
 sentencepiece==0.1.99
 six==1.16.0
 smmap==5.0.0
-streamlit==1.25.0
+streamlit==1.23.1
 sympy==1.12
 tenacity==8.2.2
 tokenizers==0.13.3
